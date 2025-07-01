@@ -72,7 +72,7 @@ This project is open-source and available under the MIT License.
 
 🙋‍♂️ Author
 William (Nam Cap)
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/williamcap99/
 🐙 GitHub
 ---
 
